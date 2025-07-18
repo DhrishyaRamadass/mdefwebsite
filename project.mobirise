@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "emergenttechnologies.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "calmm5",
       "title": "CalmM5",
@@ -69,7 +69,7 @@
     "siteUrl": false,
     "cookiesAlert": false,
     "gdpr": false,
-    "publishChangesOnly": true
+    "publishChangesOnly": false
   },
   "pages": {
     "index.html": {
